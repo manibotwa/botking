@@ -39,7 +39,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click Whatsapp logo to Join Support Group 🤴👇
 <br>
 <br>
-  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/Fo65f7TcUjx9FUJlFCSZks)
+  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/G5upsCEMdcwICYwyO1VsiK)
   
   </a>
 </div>

@@ -3,9 +3,7 @@
    ### KAVIYA BOT 😈           
    [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
    
- [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
-  
-  </div>
+ 
 
 
 

@@ -50,7 +50,7 @@ Click Whatsapp logo to Join Support Group 🤴👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@RAVANASL/RAVANA-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manibotwa/botking)
      </div>
      
 ### ⚠️ Warning! 
